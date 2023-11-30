@@ -7,6 +7,7 @@ comments: false
 author: AuTtx
 ---
 
+
 ## 一、开篇
 《Spring OAuth2 开发系列》是系列文章，详细介绍基于 Spring 生态（包括 Spring Cloud） OAuth2 的实战开发。本系列将由3～5篇文章组成：
 
